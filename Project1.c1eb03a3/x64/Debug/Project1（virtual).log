@@ -1,0 +1,3 @@
+﻿  solution.cpp
+D:\CPP_pratice\class\Project1（virtual)\solution.cpp(12,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1（virtual).vcxproj -> D:\CPP_pratice\class\Project1（virtual)\x64\Debug\Project1（virtual).exe
